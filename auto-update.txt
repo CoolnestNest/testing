@@ -1,7 +1,0 @@
-
-<Version: 1.03>
-
-/data/Map001.json https://raw.githubusercontent.com/CoolnestNest/testing/master/Map001.json
-/data/Map002.json https://raw.githubusercontent.com/CoolnestNest/testing/master/Map002.json
-
-<End of Version>
